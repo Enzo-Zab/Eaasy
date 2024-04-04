@@ -193,15 +193,16 @@ img {
 }
 
 .nav__link {
-  color: cyan; 
+  color: cyan;
   font-size: 1.25rem;
   padding: .4rem;
   display: flex;
   border-radius: 5rem;
-  transition: color 0.4s; 
+  transition: color 0.4s;
 }
+
 .nav__link:hover {
-  color: white; 
+  color: white !important;
 }
   
 .active-link{
