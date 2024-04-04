@@ -1,2 +1,0 @@
-# Eaasy
-vamos lá
