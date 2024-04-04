@@ -92,8 +92,8 @@ a {
 
 .subpage__buttons {
   display: flex;
-  justify-content: center; /* Centraliza os botões horizontalmente */
-  gap: 10px; /* Adiciona espaço entre os botões */
+  justify-content: center; 
+  gap: 10px;
 }
 
 .button {
