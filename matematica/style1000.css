@@ -192,14 +192,17 @@ img {
   align-items: center;
 }
 
-.nav__link{
-  color: var(--text-color);
+.nav__link {
+  color: cyan; 
   font-size: 1.25rem;
   padding: .4rem;
   display: flex;
   border-radius: 5rem;
-  }
-
+  transition: color 0.4s; 
+}
+.nav__link:hover {
+  color: white; 
+}
   
 .active-link{
   background: linear-gradient(180deg,
